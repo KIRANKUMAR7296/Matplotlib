@@ -1,6 +1,6 @@
 # Matplotlib
 
-# Everyday Matplotlib Cheat Sheet 🤖🚀📝🎯📈
+### Everyday Matplotlib Cheat Sheet 🤖🚀📝🎯📈
 
 1. Line Plot
 
